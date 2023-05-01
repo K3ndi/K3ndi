@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kendi and I'm a React Developer from</p>
+<p align="left">My name is Kendi and I'm a React Developer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Next js<br>🎯 Goals: ...</p>
 
 ###
 
